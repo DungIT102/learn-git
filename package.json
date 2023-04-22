@@ -1,0 +1,8 @@
+{
+  "name": "dungit102-Admin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@dungit102:DungIT102/learn-git.git",
+  "author": "DungIT102 <levandungit102@gmail.com>",
+  "license": "MIT"
+}
